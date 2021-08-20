@@ -6,17 +6,17 @@
 - 📫 How to reach me : usama.fastian@gmail.com 
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 - ---
-- :muscle: SQL for Data Science
+- :muscle: SQL for Data Science Certificate
 - https://www.coursera.org/account/accomplishments/certificate/X2FYDWDDHFGV
 -  ---
-- :muscle: Google Data Analytics 
+- :muscle: Google Data Analytics Certificate
 - https://www.coursera.org/account/accomplishments/certificate/AGH273UVMR68
 - https://www.coursera.org/account/accomplishments/certificate/5QF87NXAXCHT
 - https://www.coursera.org/account/accomplishments/certificate/X9XFKCD67N5P 
 - https://www.coursera.org/account/accomplishments/certificate/X3XMMRSL2S9D
 - https://www.coursera.org/account/accomplishments/certificate/V7FDVNR333AV
 -  ---
-- :muscle: Udemy
+- :muscle: Udemy Certificate
 - https://www.udemy.com/certificate/UC-5b019b05-254f-44d5-a04e-4db46cad32dc/
 
 <!---
