@@ -6,6 +6,9 @@
 - 📫 How to reach me : usama.fastian@gmail.com 
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 - ---
+- :muscle: SQL for Data Science
+- https://www.coursera.org/account/accomplishments/certificate/X2FYDWDDHFGV
+- 
 - :muscle: Google Data Analytics 
 - https://www.coursera.org/account/accomplishments/certificate/AGH273UVMR68
 - https://www.coursera.org/account/accomplishments/certificate/5QF87NXAXCHT
