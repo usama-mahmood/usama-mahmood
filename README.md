@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on Full Stack Development and Data Analysis.
 - 📫 How to reach me : usama.fastian@gmail.com 
 - [![LinkedIn][linkedin-shield]][linkedin-url]
+- - ---
+- :muscle: Excel Fundamentals for Data Analysis
+- https://www.coursera.org/account/accomplishments/certificate/S3CZ79L8EGS8
 - ---
 - :muscle: SQL for Data Science Certificate
 - https://www.coursera.org/account/accomplishments/certificate/X2FYDWDDHFGV
